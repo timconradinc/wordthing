@@ -50,3 +50,6 @@ properly
 - Probably lots.
 - The alignment could be better and the tags below could be fixed better.
 - Rejoin the content back into original format / paragraphs
+
+# Also.
+I do most of my writing on my ipad and just wanted this basic functionality. This is meant to be ran under pythonista on the ipad. I use Ulysses to edit text, then put it into this, then put it back into Ulysses to edit. Or, that's the theory. YMMV
