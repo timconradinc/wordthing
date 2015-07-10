@@ -10,7 +10,7 @@ something you've written.
 word list to create your own.
 - run process.py, and in stdout you should get output like:
 
-`
+```
 #0000| tag ) description
 #0000| p ) Passive Word List
 #0000| C ) Custom test word list, don't use this unless you know what you're doing.
@@ -36,7 +36,7 @@ word list to create your own.
 ~0007| with annoying hipsters.
 #0007|
 #0007|
-`
+```
 
 This isn't perfectly aligned, but you should get the idea of what needs fixing on a line.
 
